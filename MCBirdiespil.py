@@ -7,7 +7,7 @@ BLUE = (0, 0, 255)
 GREEN = (0, 255, 0)
 RED = (255, 0, 0)
 ORANGE = (255,165,0)
-RANDOM = (random(255),random(255),random(255),)
+
 PI = 3.141592653
 
 
